@@ -1,3 +1,2 @@
-import math
-
-print(f"{math.e:.1f}")
+x = input("Введите число: ")
+print("Вы ввели число", x)
