@@ -1,0 +1,70 @@
+print("     a")
+print("а)  ----")
+print("     bc")
+print()
+
+print("     ab")
+print("б)  ----")
+print("     c")
+print()
+
+print("     a")
+print("в)  --- · c")
+print("     b")
+print()
+
+print("         b")
+print("г)  a + ---")
+print("         c")
+print()
+
+print("     a + b")
+print("д)  -------")
+print("       c")
+print()
+
+print("         b")
+print("е)  a + --- + c")
+print("         b")
+print()
+
+print("     a + b")
+print("ж)  -------")
+print("     b + c")
+print()
+
+print("       a")
+print("з)  -------")
+print("     sin b")
+print()
+
+print("     1")
+print("и)  --- ab sin x")
+print("     2")
+print()
+
+print("               a")
+print("    2bc cos ( --- )")
+print("               2")
+print("к)  ---------------")
+print("         b + c")
+print()
+
+print("              a           b           c")
+print("л)  4R sin ( --- ) sin ( --- ) sin ( --- )")
+print("              2           2           2")
+print()
+
+print("     ax + b")
+print("м)  --------")
+print("     cx + d")
+print()
+
+print("            a + b         a - b")
+print("н)  2 sin ( ----- ) cos ( ----- )")
+print("              2             2")
+print()
+
+print("                    x")
+print("о)  | 2 sin ( -3 | --- | ) |")
+print("                    2")
