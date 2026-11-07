@@ -1,0 +1,6 @@
+print("а) (X % 2 != 0) and (Y % 2 != 0)")
+print("б) ((X < 20) and (Y >= 20)) or ((X >= 20) and (Y < 20))")
+print("в) (X == 0) or (Y == 0)")
+print("г) (X < 0) and (Y < 0) and (Z < 0)")
+print("д) ((X % 5 == 0) and (Y % 5 != 0) and (Z % 5 != 0)) or ((X % 5 != 0) and (Y % 5 == 0) and (Z % 5 != 0)) or ((X % 5 != 0) and (Y % 5 != 0) and (Z % 5 == 0))")
+print("е) (X > 100) or (Y > 100) or (Z > 100)")

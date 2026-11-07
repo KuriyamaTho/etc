@@ -1,0 +1,6 @@
+print("а) (A > 100) and (B > 100)")
+print("б) ((A % 2 == 0) and (B % 2 != 0)) or ((A % 2 != 0) and (B % 2 == 0))")
+print("в) (A > 0) or (B > 0)")
+print("г) (A % 3 == 0) and (B % 3 == 0) and (C % 3 == 0)")
+print("д) ((A < 50) and (B >= 50) and (C >= 50)) or ((A >= 50) and (B < 50) and (C >= 50)) or ((A >= 50) and (B >= 50) and (C < 50))")
+print("е) (A < 0) or (B < 0) or (C < 0)")

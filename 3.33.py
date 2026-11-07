@@ -1,0 +1,8 @@
+print("а) (x <= -1) and (y <= -2)")
+print("б) (y >= 1) or (y <= -3)")
+print("в) (y >= 1) or ((y >= -4) and (y <= -3))")
+print("г) (x >= -1) and (x <= 1.5) and (y >= -0.5) and (y <= 1.5)")
+print("д) (x >= 1) and (x <= 4) and (y >= 2) and (y <= 4)")
+print("е) (y >= 1) and ((x <= -1) or (x >= 2))")
+print("ж) (x >= 1) and (x <= 3) and (y >= -3) and (y <= 1)")
+print("з) (y >= 1.5) or ((x >= 1) and (x <= 2.5) and (y >= -2))")
