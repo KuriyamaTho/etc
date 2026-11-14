@@ -1,0 +1,12 @@
+a = int(input("Введите a: "))
+b = int(input("Введите b: "))
+c = int(input("Введите c: "))
+while b != 0:
+    r = a % b
+    a = b
+    b = r
+while c != 0:
+    r = a % c
+    a = c
+    c = r
+print("НОД =", a)

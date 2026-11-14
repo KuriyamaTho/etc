@@ -1,0 +1,12 @@
+a = float(input("Введите a: "))
+x = float(input("Введите x: "))
+eps = float(input("Введите eps: "))
+prev = a
+y = 0.5 * (prev + x / (prev - 1))
+n = 1
+while abs(y ** 2 - prev ** 2) >= eps and n < 100000:
+    prev = y
+    y = 0.5 * (prev + x / (prev - 1))
+    n = n + 1
+print("n =", n)
+print("y_n =", y)
